@@ -1,0 +1,17 @@
+button:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+button.btn-outline-secondary {
+    background-color: rgba(106, 15, 106, 0.347);
+    color: aliceblue;
+    border: none
+}
+
+img.custom-circle { 
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: right top;
+    margin: 20px auto;
+}
